@@ -8,74 +8,25 @@
   ],
   "employee": [
     {
-      "id": 101,
-      "empname": "uttam",
-      "company": "Fresher",
-      "Salary": 25000,
-      "Designatio": "Developer"
+      "id": 2,
+      "fname": "uttam",
+      "lname": "shakya",
+      "company": "Optum",
+      "location": "Noida"
     },
     {
-      "id": 102,
-      "empname": "shivang",
+      "fname": "Shivang",
+      "lname": "Saxena",
       "company": "TCS",
-      "Salary": 5000000,
-      "Designatio": "Sr. Developer"
+      "location": "Finland",
+      "id": 3
     },
     {
-      "empname": "Deepak",
-      "company": "HCL",
-      "Salary": "5000",
-      "Designatio": "Jr. Developer",
-      "id": 103
-    },
-    {
-      "empname": "Deepak",
-      "company": "HCL",
-      "Salary": "5000",
-      "Designatio": "Jr. Developer",
-      "id": 104
-    },
-    {
-      "empname": "Deepak",
-      "company": "HCL",
-      "Salary": "5000",
-      "Designatio": "Jr. Developer",
-      "id": 105
-    },
-    {
-      "empname": "Deepak",
-      "company": "HCL",
-      "Salary": "5000",
-      "Designatio": "Jr. Developer",
-      "id": 106
-    },
-    {
-      "empname": "Deepak",
-      "company": "HCL",
-      "Salary": "5000",
-      "Designatio": "Jr. Developer",
-      "id": 107
-    },
-    {
-      "empname": "Deepak",
-      "company": "HCL",
-      "Salary": "5000",
-      "Designatio": "Jr. Developer",
-      "id": 108
-    },
-    {
-      "empname": "Deepak",
-      "company": "HCL",
-      "Salary": "5000",
-      "Designatio": "Jr. Developer",
-      "id": 109
-    },
-    {
-      "empname": "Deepak",
-      "company": "HCL",
-      "Salary": "5000",
-      "Designatio": "Jr. Developer",
-      "id": 110
+      "fname": "deepak",
+      "lname": "singh",
+      "company": "hcl",
+      "location": "delhi",
+      "id": 4
     }
   ]
 }
