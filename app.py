@@ -10,7 +10,7 @@ def validate_input_request(request_json):
         return "", 400
 
 
-@app.route('/josnapi', methods=['POST'])
+@app.route('/jsonapi', methods=['POST'])
 def validate():
     try:
         request_json = request.get_json()
